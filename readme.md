@@ -2,6 +2,9 @@
 
 A simple video player built with vanilla JavaScript, HTML, and CSS.
 
+# [Live Preview here](https://ahmedd26.github.io/Custom-video-player-vanilla/)
+# [Or here](https://66e2efebb2cac409903af8c6--ahmedd26-video-player.netlify.app/)
+
 ## Features
 
 - Play/Pause video
